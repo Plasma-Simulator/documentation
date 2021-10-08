@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Simulador de Plasma
+repo_url: https://github.com/Plasma-Simulator/documentation.git
+repo_name: ''
+
+theme:
+  name: material
+  language: 'pt'
+  logo: ''
+  favicon: ''
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
